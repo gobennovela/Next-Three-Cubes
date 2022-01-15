@@ -1,0 +1,18 @@
+* {
+  
+}
+
+html, body, #root {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-color: #f1f4f8;
+  position: fixed;
+}
